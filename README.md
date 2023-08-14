@@ -3,10 +3,10 @@
 # E-Ticaret Sitesi
   - Html, Css ve Js kullanıldı
     
-### `Deploy`
+## `Deploy`
 https://eticaretsitesi.netlify.app 
 
-# `Kaynaklar`
+### `Kaynaklar`
 - Api: https://fakeapi.platzi.com/
 
 
