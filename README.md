@@ -1,6 +1,12 @@
-# E-Ticaret
+![](e-ticaret.gif)
 
-# Kaynaklar
+# E-Ticaret Sitesi
+  - Html, Css ve Js kullanıldı
+    
+### `Deploy`
+https://eticaretsitesi.netlify.app 
+
+# `Kaynaklar`
 - Api: https://fakeapi.platzi.com/
 
-# e-ticaret
+
